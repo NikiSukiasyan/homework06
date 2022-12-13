@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url('fonts/HelveticaNeueBold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+header{
+	background-color: #0020F4;
+	width: 1920px;
+  	height: 1080px;
+}
+.logo{
+	margin-top: 55px;
+	margin-left: 240px;
+	vertical-align: middle;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: text-top;
+}
+.navigation-list{
+	display: inline;
+	margin-left: 53px;
+	font-size: 16px;
+}
+a{
+	color: #fff;
+	text-decoration: none;
+}
+ul{
+	list-style-type: none;
+}
+.rectangle{
+	display: inline-block;
+	margin-bottom: 203px;
+	margin-left: 200px;
+	margin-right: 24px;
+	width: 707px;
+	height: 597px;
+
+}
+.photo{
+	display: inline-block;
+	width: 948px;
+	height: 800px;
+	margin-top: 133px;
+
+}
+ button{
+ 	display: inline-block;
+	width: 160px;
+	height: 55px;
+	background-color: #fff;
+	color: #000;
+	margin-left: 36px;
+ }
+.title {
+	font-family: 'HelveticaNeue';
+	font-size: 32px;
+	color: #000;
+	margin-top: 180px;
+	margin-left: 240px;
+	height: 38px;
+}
+.wrapper{
+	display: inline-block;
+	font-size: 16px;
+	color: #000;
+	margin-top: 98px;
+	margin-left: 240px;
+	width: 463px;
+}
+.paragraph{
+	display: inline-block;
+	font-size: 16px;
+	color: #000;
+	margin-top: 22px;
+	margin-left: 240px;
+	width: 463px;
+}
+.building{
+	display: inline-block;
+	margin-left: 840px;
+	margin-top: 300px;
+	width: 707px;
+	height: 707px;
+}
+
